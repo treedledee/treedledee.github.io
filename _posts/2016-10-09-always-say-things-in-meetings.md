@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Saying Things in Meetings in Important"
+title:  "Saying Things in Meetings is Important"
 date:   2016-10-07 10:15:59 -0700
 categories: confidence, communication
 ---
