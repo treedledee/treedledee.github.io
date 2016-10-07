@@ -20,7 +20,9 @@ down at the keyboard trying to write my own, I realize
 how much practice and time I will need to be able to convey the right meaning.
 
 Cue the talk with myself:
+
 _"So... you're giving up already?"_
+
 _"No! I'm not where I thought I would be, but that doesn't mean I have
 to give up."_
 
@@ -34,4 +36,5 @@ And so the post has morphed into one about how I need
 to let go of writing the perfect story.
 
 Post the post.
+
 Do the thing.
