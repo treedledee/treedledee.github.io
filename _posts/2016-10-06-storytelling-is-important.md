@@ -2,7 +2,7 @@
 layout: post
 title:  "Letting Go of Perfectionism"
 date:   2016-10-06 10:15:59 -0700
-categories: perfectionism
+categories: perfectionism, communication
 ---
 
 This began as a post on storytelling. Over the past few years,

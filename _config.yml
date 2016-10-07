@@ -7,11 +7,11 @@
 
 # Site settings
 title: Theresa Meyer
-email: 
+email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: treemeyer
+url: "http://treedledee.github.com" # the base hostname & protocol for your site
+twitter_username:
 github_username:  treedledee
 # Build settings
 markdown: kramdown
