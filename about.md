@@ -7,7 +7,7 @@ order: 3
 
 ## Hi, I'm Theresa!
 
-I am a software engineer living in the San Francisco.
+I'm a software engineer living in San Francisco.
 
 I'm addicted to meeting new people!
 
