@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Saying Things in Meetings is Important"
+title:  "Speakign Up in Meetings is Important"
 date:   2016-10-07 10:15:59 -0700
 categories: confidence, communication
 ---
@@ -28,7 +28,17 @@ engineer just thought I had nothing to say, but encouraged
 me to jump in more and admitted to sometimes wandering away
 from the thread of the essential.
 
+My other epiphany came from polling other twenty-something
+female friends. They didn't speak up in meetings, either.
+And they were feeling the same pains.
+
+The truth was that I really _wanted_ to say more, I just didn't know how.
+
 So, I pushed myself to speak up.
+
+I started with questions. I let go of the idea of "stupid questions"
+and just allowed myself to run with whatever my brain gave me.
+Even with that small change, I saw leaps of improvement.
 
 Communicating whatever is on your mind is _so important_.
 
