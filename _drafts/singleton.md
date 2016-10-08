@@ -6,3 +6,5 @@ categories: jekyll update
 ---
 
 Singleton.
+
+Wat.

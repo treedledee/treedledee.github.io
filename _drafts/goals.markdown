@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Hello World"
+title:  "Goals!"
 date:   2016-07-20 10:28:59 -0700
-categories: jekyll update
+categories: goals
 ---
 
 I'm not quite sure where this will take me, but there are a few
@@ -42,4 +42,3 @@ Dynamic Web Apps
 
 {% highlight java %}
 {% endhighlight %}
-
