@@ -2,10 +2,10 @@
 layout: post
 title:  "Letting Go of Perfectionism"
 date:   2016-10-06 10:15:59 -0700
-categories: perfectionism, communication
+categories: perfectionism communication
 ---
 
-This began as a post on storytelling. Over the past few years,
+Over the past few years,
 I've learned that one of the most
 important skills to have is to be able
 to communicate ideas with other people. I say skill, not

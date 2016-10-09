@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sunday Retro (or why I'm in love with Pivotal Labs)"
+title:  "Sunday Retro"
 date:   2000-01-01 10:28:59 -0700
 categories: sunday retro
 ---

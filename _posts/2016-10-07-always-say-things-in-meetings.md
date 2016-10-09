@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Speaking Up in Meetings is Important"
+title:  "Speaking Up in Meetings"
 date:   2016-10-07 10:15:59 -0700
-categories: confidence, communication
+categories: confidence communication
 ---
 
 I didn't realize how important speaking up in meetings

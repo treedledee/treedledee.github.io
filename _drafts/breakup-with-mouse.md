@@ -24,8 +24,8 @@ or lines or quotes or ... such control.
 
 And the primary reason to break up with your mouse...
 
-1. You look like a Badass Computer Ninja on a Mission
-to Get Shit Done. That becomes your official title. (ninja cartoon)
+1. You look like a Badass Ninja on a Mission
+to Get Shit Done (BNM2GSD). That becomes your official title. (ninja cartoon)
 
 Here are some of my favorites:
 `code`
