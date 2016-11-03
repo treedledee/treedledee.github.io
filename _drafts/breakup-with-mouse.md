@@ -19,8 +19,9 @@ what I would do with 365 keyboard shortcuts. (Maybe you'll discover
 that new cool one that makes the computer fly and shoot
 rainbows at people.)
 
-2. It's more precise. Instead of ... I can select whole words
-or lines or quotes or ... such control.
+2. Your desktop looks better because you're using terminal.
+Don't have to select things with the mouse. It's more precise,
+can just go after what you want.
 
 And the primary reason to break up with your mouse...
 
