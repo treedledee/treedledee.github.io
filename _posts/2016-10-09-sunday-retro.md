@@ -26,9 +26,18 @@ Thus, the Sunday Retro is born! Each week, the idea is to reflect.
 What did I like? What was meh? What do I want to change? Sometimes
 action items come out of the retro, sometimes just awareness. All good things.
 
-| <img src="/img/smile.png?raw=true"> | <img src="/img/neutral.png?raw=true">  | <img src="/img/sad.png?raw=true">  |
-|:-----:|:-----:|:-----:|
-| found a great course for Android | I'd like to sign up for a class | some insomnia this week |
-| tried Pho for the first time ever | lingering errands | new to the city and don't know many people yet  |
-| made it to three blog posts | room is semi-unpacked | flaky friends (though I may be guilty of this too) |
-| made biscuits! |   |   |
+<img src="/img/smile.png?raw=true">
+found a great course for Android
+tried Pho for the first time ever
+made it to three blog posts
+made biscuits!
+
+<img src="/img/neutral.png?raw=true">
+I'd like to sign up for a class
+lingering errands
+room is semi-unpacked
+
+<img src="/img/sad.png?raw=true">
+some insomnia this week
+new to the city
+flaky friends
