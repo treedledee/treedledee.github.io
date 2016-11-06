@@ -10,7 +10,8 @@ categories: slack productivity
 How do some people write
 paragraphs of text _and_ share several articles _and_ link few blog
 posts _and_ submit a photo of their lunch _and_ find at least
-two appropriate cartoons per day? Do you know who I'm talking about? I think you know who I'm
+two appropriate cartoons per day? Do you know who I'm talking about?
+I think you know who I'm
 talking about.
 
-There must be a practical balance _somewhere_.
+There must be a practical balance somewhere.
