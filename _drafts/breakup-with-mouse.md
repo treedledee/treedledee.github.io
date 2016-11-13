@@ -26,7 +26,7 @@ can just go after what you want.
 And the primary reason to break up with your mouse...
 
 1. You look like a Badass Ninja on a Mission
-to Get Shit Done (BNM2GSD). That becomes your official title. (ninja cartoon)
+to Get Shit Done (). That becomes your official title. (ninja cartoon)
 
 Here are some of my favorites:
 `code`

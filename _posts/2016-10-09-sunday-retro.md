@@ -27,17 +27,19 @@ What did I like? What was meh? What do I want to change? Sometimes
 action items come out of the retro, sometimes just awareness. All good things.
 
 <img src="/img/smile.png?raw=true">
-found a great course for Android
-tried Pho for the first time ever
-made it to three blog posts
-made biscuits!
+
+* found a great course for Android
+* tried Pho for the first time ever
+* made it to three blog posts
+* made biscuits!
 
 <img src="/img/neutral.png?raw=true">
-I'd like to sign up for a class
-lingering errands
-room is semi-unpacked
+
+* I'd like to sign up for a class
+* lingering errands
+* room is semi-unpacked
 
 <img src="/img/sad.png?raw=true">
-some insomnia this week
-new to the city
-flaky friends
+
+* some insomnia this week
+* new to the city

@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Theresa Meyer
+title: Tree Meyer
 email:
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://treedledee.github.com" # the base hostname & protocol for your site
-twitter_username:
+twitter_username: treemeyer
 github_username:  treedledee
 # Build settings
 markdown: kramdown
