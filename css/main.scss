@@ -43,6 +43,10 @@ $on-laptop:        800px;
     }
 }
 
+th, td {
+    padding: 10px;
+    text-align: left;
+}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)

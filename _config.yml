@@ -9,7 +9,8 @@
 title: Tree Meyer
 email:
 description: > # this means to ignore newlines until "baseurl:"
-
+  I'm Theresa, a web developer with a penchant for being outside,
+  puppies, kittens, tea, and really delicious lattes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://treedledee.github.com" # the base hostname & protocol for your site
 twitter_username: treemeyer

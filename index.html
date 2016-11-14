@@ -6,7 +6,6 @@ layout: default
   <img src="img/red_buds_flowers_wide.jpg" />
 </section> -->
 
-
 <h1> Hi, I'm Tree! </h1>
 
 <img src="img/hai.jpg" style="height: auto; width: 50%;" />
@@ -14,13 +13,28 @@ layout: default
 <p>I'm a software engineer living in San Francisco.</p>
 
 <p>Usually, I like to keep my thoughts in my head. Some of
-them have fallen out and ended up <a href="http://treedledee.github.io/blog">here</a>.</p>
+them have fallen out and ended up here.</p>
 
+<br>
+<hr>
+<br>
 
-<div class="home">
+<ul class="post-list">
+{% for post in site.posts %}
+  <li>
 
+    <div style="display: inline; text-align: center">
 
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <div class="post-meta">
+        {{ post.date | date: "%B %-d, %Y" }}
+      </div>
 
+  </div>
+
+  </li>
+{% endfor %}
+</ul>
 
   <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
