@@ -26,8 +26,8 @@ their energy consumption so that they would use less.</td>
 
 <tr>
 <td><i class="material-icons">computer</i></td>
-<td>I enjoy writing software the brings people joy, helps them process data, and
-tools that make life easier. Recently, I've been trying to master Android
+<td>I enjoy writing software that brings people joy, helps them understand
+unmanageable data, and makes life easier. Recently, I've been trying to master Android
 and iOS development.</td>
 </tr>
 
