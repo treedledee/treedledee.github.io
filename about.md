@@ -5,7 +5,7 @@ permalink: /about/
 order: 3
 ---
 
-### (or why you'd want be stranded on a desert island with me)
+### (or why we should go on a date)
 
 <table>
 
@@ -42,8 +42,7 @@ observing people on public transit.</td>
 <td><i class="material-icons">language</i></td>
 <td>Grew up in Durham, North Carolina, with dreams of California in my head.
 I spent time in the northeast for undergrad, hopped over to Philadelphia,
-PA for a brief time and then
-high-tailed it to sunny San Francisco.</td>
+PA for a brief time and then ran away to sunny San Francisco.</td>
 </tr>
 
 </table>
